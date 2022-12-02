@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+   <context id="getting_started">
+      <description>Getting started</description>
+      <topic label="Getting started" href="getting_started.html#getting_started"/>
+   </context>
+   <context id="sign_up">
+      <description>Create a new Account</description>
+      <topic label="Create a new Account" href="sign_up.html#sign_up"/>
+   </context>
+   <context id="benifits_of_prime_membership">
+      <description>Benifits of Prime Membership</description>
+      <topic label="Benifits of Prime Membership"
+             href="benifits_of_prime_membership.html#benifits_of_prime_membership"/>
+   </context>
+   <context id="place_your_first_order">
+      <description>Place your first order</description>
+      <topic label="Place your first order"
+             href="place_your_first_order.html#place_your_first_order"/>
+   </context>
+   <context id="topic_glc_4p5_rvb">
+      <description>Add products to the Amazon Cart</description>
+      <topic label="Add products to the Amazon Cart"
+             href="Adding%20your%20product%20to%20cart.html#topic_glc_4p5_rvb"/>
+   </context>
+   <context id="checkout_cart">
+      <description>Checkout Cart</description>
+      <topic label="Checkout Cart" href="checkout_cart.html#checkout_cart"/>
+   </context>
+   <context id="glossentry_qbw_k5v_rvb">
+      <description>Binge-watch</description>
+      <topic label="Binge-watch" href="glossary%201.html#glossentry_qbw_k5v_rvb"/>
+   </context>
+   <context id="hamburger_button">
+      <description>Hamburger button</description>
+      <topic label="Hamburger button" href="hamburger_button.html#hamburger_button"/>
+   </context>
+</contexts>

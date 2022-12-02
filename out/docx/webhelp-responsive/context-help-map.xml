@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="getting_started" path="getting_started.html"/>
+   <appContext helpID="sign_up" path="sign_up.html"/>
+   <appContext helpID="benifits_of_prime_membership"
+               path="benifits_of_prime_membership.html"/>
+   <appContext helpID="place_your_first_order" path="place_your_first_order.html"/>
+   <appContext helpID="topic_glc_4p5_rvb"
+               path="Adding%20your%20product%20to%20cart.html"/>
+   <appContext helpID="checkout_cart" path="checkout_cart.html"/>
+   <appContext helpID="glossentry_qbw_k5v_rvb" path="glossary%201.html"/>
+   <appContext helpID="hamburger_button" path="hamburger_button.html"/>
+</map>
