@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="hamburger_button">
+    <glossterm>Hamburger button</glossterm>
+    <glossdef>A hamburger button, named for its visual resemblance to the food item, is a type of
+        button common on websites and applications, especially mobile environments. It is an icon
+        that consists of three parallel horizontal lines, often rounded at the ends.</glossdef>
+</glossentry>

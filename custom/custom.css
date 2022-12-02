@@ -1,0 +1,126 @@
+
+
+*[class ~= "map/topicref"][is-chapter] {
+  font-size: larger;
+}
+
+*[class ~= "map/topicref"][is-chapter]:not([is-part]) > 
+*[class ~= "map/topicref"]:not(is-chapter) {
+  font-size: medium;
+}
+
+@page chapter:left{
+  @top-left {
+    content:  string(chaptertitle) " | " counter(page);
+  }
+}
+@page chapter:right{
+  @top-right {
+    content:  string(chaptertitle) " | " counter(page);
+  }
+}
+
+@page chapter:first:left{
+  @top-left {
+    content:  string(chaptertitle) " | " counter(page);
+  }
+}
+@page chapter:first:right{
+  @top-right {
+    content:  string(chaptertitle) " | " counter(page);
+  }
+}
+
+@page {
+    font-size:11pt;
+    font-family:"sans-serif";
+    color:#D3D3D3;
+    font-style:italic;
+    background-image: url(../custom/sample.png);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-position:50%;
+    
+}
+
+@page :right{
+    @top-center{
+        content: " ";
+        background-image: url(../custom/amazon-icon.svg);
+        background-repeat:no-repeat;
+        background-position:50%;
+              
+    }
+    @bottom-center {
+        content: "© 1996-2022, Amazon.com, Inc. or its affiliates \A All rights reserved";
+        font-size: 0.5em;
+        color: silver;
+    }    
+}
+
+@page :left{
+    @top-center{
+        content: " ";
+        background-image: url(../custom/amazon-icon.svg);
+        background-repeat:no-repeat;
+        background-position:50%;        
+    }
+    @bottom-center {
+        content: "© 1996-2022, Amazon.com, Inc. or its affiliates \A All rights reserved";
+        font-size: 0.5em;
+        color: silver;
+    }    
+}
+
+*[class ~= "index/groups"] *[class ~= "index/group"] *[class ~= "index/label"] {
+    font-size:1.5em;
+    color:#FF9900;
+}
+
+*[class ~= "index/groups"]:before {
+    content: "- Index - ";
+    color:#FF9900;
+    font-size: 4em;
+}
+
+body { font-family: "sans-serif" ;
+
+}
+
+@page {
+    @top-left {font-family: "sans-serif" }
+    @top-right {font-family: "sans-serif" }
+    @top-center {font-family: "sans-serif" }
+    @top-left-corner {font-family: "sans-serif" }
+    @top-right-corner {font-family: "sans-serif" }
+    
+    @bottom-left {font-family: "sans-serif" }
+    @bottom-right {font-family: "sans-serif" }
+    @bottom-center {font-family: "sans-serif" }
+    @bottom-left-corner {font-family: "sans-serif" }
+    @bottom-right-corner {font-family: "sans-serif" }
+}
+
+ol.number-alpha{
+    list-style-type:lower-alpha;
+}
+
+ol li::marker{
+    color:#FF9900;
+}
+
+ul li::marker{
+    color:#FF9900;
+}
+
+
+*[class~="topic/title"] {
+  color:#FF9900;
+} 
+
+
+
+
+
+
+

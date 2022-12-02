@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="checkout_cart">
+    <title>Checkout Cart</title>
+    <shortdesc>This topic will guide you on how to checkout your cart on the Amazon
+        website.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Checkout cart</indexterm>
+                <indexterm>delivery options</indexterm>
+                <indexterm>Payment method</indexterm>
+                <indexterm>Add address</indexterm>
+                <indexterm>Your orders</indexterm>
+                <keyword>checkout, cart</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <ol id="ol3" outputclass="number-alpha">
+            <li>Select <b>Cart</b> in the navigation bar and then select <b>Proceed to Buy</b>.</li>
+            <li>In the checkout page, select <b>Add a new address</b> and then enter your
+                address.</li>
+            <li>Choose an address type and select<b>Use this address</b>.</li>
+            <li>In "Choose special delivery options," choose the delivery speed of your product and
+                then select <b>Choose special delivery options</b>.</li>
+            <li>In "Select a payment method," choose a payment method of your choice and then select
+                    <b>Use this payment method</b>.</li>
+            <li>Review your items and select <b>Place Your Order and pay</b> in the "Review items
+                and delivery" section.</li>
+            <li>Complete your payment in the given time. Now you have placed your order
+                successfully.</li>
+            <li>Go to <b>Your Account > Your Orders</b> to view your past orders and it's
+                status.</li>
+        </ol>
+    </body>
+</topic>

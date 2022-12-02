@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="benifits_of_prime_membership">
+    <title>Benifits of Prime Membership</title>
+    <shortdesc>Amazon Prime is a monthly or annual membership program that offers many exclusive
+        benefits.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Benefits of Prime</indexterm>
+                <keyword>Prime, membership, subsciption, benifits</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Amazon Prime benefits applicable on all <xref
+                href="https://www.amazon.in/gp/help/customer/display.html?nodeId=GR2WKYLHWHLVK6R9"
+                format="html" scope="external">Prime Eligible</xref>  items include:</p>
+        <p>
+            <ul id="ul1">
+                <li>Free same day delivery on eligible products.</li>
+                <li>No minimum order limit on standard delivery.</li>
+                <li>Ad-free and unlimited access to playlists on Amazon Music.</li>
+                <li>Binge-watch unlimited movies, TV shows and Amazon Originals with Amazon Prime
+                    Video.</li>
+                <li>Get Exclusive deals and Prime Early Access, on Amazon Big Billion Days and
+                    lightening deals.</li>
+                <li>No Cost EMI and 6 months Free Screen Replacement on Smartphone puchases.</li>
+            </ul>
+        </p>
+    </conbody>
+    <related-links>
+        <link
+            href="https://www.amazon.in/ap/register?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fref%3Dnav_logo%2F%3F_encoding%3DUTF8%26ref_%3Dnav_newcust&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;"
+            format="html" scope="external">
+            <linktext>Amazon Create account webpage</linktext>
+        </link>
+        <link href="https://www.amazon.in/amazonprime" format="html" scope="external">
+            <linktext>Amazon Prime Membership webpage</linktext>
+        </link>
+    </related-links>
+</concept>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_glc_4p5_rvb">
+  <title>Add products to the Amazon Cart</title>
+  <shortdesc>This topic will guide you on how to place your first order on the Amazon
+    website.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>Add products to cart</indexterm>
+        <indexterm>search using search bar</indexterm>
+        <indexterm>search using category</indexterm>
+        <keyword>add items, add products, add to cart</keyword>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <section id="context_ddm_42v_rvb"><b>To find products using the search bar:</b></section>
+    <ol id="ol1" outputclass="number-alpha">
+      <li> Navigate to the <b>search bar</b> on the homepage.</li>
+      <li> Enter the product name that you want to purchase and click on the <b>search
+        icon</b>.</li>
+      <li> Scroll through the "results" page and select the product you want to purchase.
+          <itemgroup>You can filter the search results using multiple options given on the left
+          sidebar. Also, you can sort the search results by selecting the <b>Sort by</b> drop down
+          list in the upper-right corner.</itemgroup>
+      </li>
+      <li> In the product page, check for all the additional information and specification
+        required.</li>
+      <li> Select <b>Add to Cart</b>.</li>
+      <li> Repeat the above steps to add multiple items.</li>
+    </ol>
+    <section id="section_gr2_yhv_rvb"><b>To find products using the category:</b></section>
+    <ol id="ol2" outputclass="number-alpha">
+      <li> Select the <b>Hamburger buton</b> on the upper-left side of the homepage.</li>
+      <li> Scroll to find "Shop By Category" section and select the category you want. <note
+          id="note_ijt_jkv_rvb" type="tip">Here you can choose the product brand, price, and
+          size.</note></li>
+      <li> Select the product you want to purchase and on the next page, check for all the
+        additional information and specification required.</li>
+      <li> Select <b>Add to Cart</b>.</li>
+      <li> Repeat the above steps to add multiple items.</li>
+    </ol>
+    <p>As a result, "Shopping Cart" page with the list of added item will appear on the screen.</p>
+  </body>
+</topic>

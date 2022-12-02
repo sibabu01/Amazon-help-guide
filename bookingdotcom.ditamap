@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="bookmap1">
+    <booktitle>
+        <mainbooktitle>A step-by-step guide on "How to place an order on the Amazon website"<image
+                id="image" href="custom/amazon-ar21.svg" format="png" align="center"
+                alt="Amazon logo"/></mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Sivachandran Babu</author>
+        <metadata>
+            <keywords>
+                <keyword>Place an order, Amazon website</keyword>
+            </keywords>
+        </metadata>
+        <bookrights>
+            <copyrfirst>
+                <year>2022</year>
+            </copyrfirst>
+            <bookowner>
+                <organization>Amazon</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter href="getting_started.dita" outputclass = "chapter">
+        <topicref href="sign_up.dita" />
+        <topicref href="benifits_of_prime_membership.dita"/>
+    </chapter>
+    <chapter href="place_your_first_order.dita" outputclass="chapter" id="img1">
+        <topicref href="Adding%20your%20product%20to%20cart.dita" outputclass="two-columns"/>
+        <topicref href="checkout_cart.dita" outputclass="two-columns"/>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <glossarylist>
+                <topicref href="glossary%201.dita"/>
+                <topicref href="hamburger_button.dita"/>
+            </glossarylist>
+            <indexlist/>
+        </booklists>
+    </backmatter>
+</bookmap>

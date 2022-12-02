@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="sign_up">
+    <title>Create a new Account</title>
+    <shortdesc>Creating an Amazon account for a new customer.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Create account, signup, create new customer account</keyword>
+                <indexterm>Create account</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq1"> Before you begin, make sure you have a browser and an active internet
+            service.</prereq>
+        <context>
+            <p><!--This topic will guide you through a step-by-step process on how to set up an account on the Amazon website.--></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://www.amazon.in/" format="html" scope="external"
+                        >www.amazon.in</xref> and navigate to <b>Account &amp; Lists </b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>New Customer? Start here</b>  to open the "Create Account"
+                    page.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your name, mobile number, email (optional), and password in the
+                    respective text boxes, and then select <b>Continue</b>.</cmd>
+                <info>
+                    <note id="tip1" type="tip">Passwords must be at least 6 characters.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Select <b>Solve Puzzle</b>, and then solve the puzzle to protect your account.
+                    For example, if it mentions "Koala," then select one correct image that contains
+                    the Koala.</cmd>
+            </step>
+            <step>
+                <cmd>To verify your mobile number, enter the One Time Password (OTP) sent to your
+                    mobile number, and then select <b>Create your Amazon account</b>. If you didn't
+                    receive the OTP, select <b>Resend OTP</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Congratulations! You have now successfully created your new Amazon account.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
