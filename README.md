@@ -12,8 +12,8 @@ This project is made purely upon my ideology and it does not imply or indicate m
 ```
 <!-- About section -->
 ## About
-1. You can find the output of my project in =main= directory. File_Name: <ins>final copy.pdf<ins>
-2. Main ditamap file is also located in =main= directory. File_Name: bookingdotcom.ditamap
+1. You can find the output of my project in main directory. File_Name: <ins>final copy.pdf<ins>
+2. Main ditamap file is also located in main directory. File_Name: bookingdotcom.ditamap
 3. All other topic, task, concept type of files also available in the main directory.
 4. Please find the CSS file and other attachments/images in "Custom" folder.
 5. All types of outputs are available in "out" folder.
