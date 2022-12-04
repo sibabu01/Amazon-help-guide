@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="benifits_of_prime_membership">
-    <title>Benifits of Prime Membership</title>
-    <shortdesc>Amazon Prime is a monthly or annual membership program that offers many exclusive
-        benefits.</shortdesc>
+    <title>Benifits of Prime Membership  </title>
+    <shortdesc>Amazon Prime <image href="custom/prime.svg" scale="60" id="image_dxc_xmq_svb"/> is a
+        monthly or annual membership program that offers many exclusive benefits.</shortdesc>
     <prolog>
         <metadata>
             <keywords>
